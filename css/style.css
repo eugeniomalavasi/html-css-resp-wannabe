@@ -148,7 +148,18 @@ img {
         gap: 5em;
     }
 
-    .lessons .col {
-        width: 90%;
+    .row .col {
+        width: 100%;
+    }
+    
+    .why-us {
+        background-color: #222222;
+        margin: 0;
+        padding: 48px 0;
+    }
+
+    .steps {
+        margin-bottom: 0;
+        padding-bottom: 48px;
     }
  }
